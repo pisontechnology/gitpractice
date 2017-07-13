@@ -1,5 +1,6 @@
 # Sign- UP LIST
 
+* DAVID CIPOLETTA
 * Mike Kowalczyk
 * Tanya Wang
 * MIke Kowalczyk 
