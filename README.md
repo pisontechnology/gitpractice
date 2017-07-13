@@ -3,11 +3,9 @@
 ## TASK
 ### Please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
 
-* Added through git web (using web GUI)
-  * mike
-  
- * Added through git bash (using git bash)
-   * mike
+* Add through git web (using web GUI)
+* Add through git bash (using git bash)
+
    
 ## SETUP
 ### Install GIT  
