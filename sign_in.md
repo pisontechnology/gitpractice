@@ -2,4 +2,5 @@
 
 * Mike Kowalczyk
 * Tanya Wang
-* MIke Kowalczyk 2
+* MIke Kowalczyk 
+* Mike Kowalczyk
