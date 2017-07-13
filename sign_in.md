@@ -6,5 +6,5 @@
 * MIke Kowalczyk
 * Sarah Bucknam
 * Sam Karnes
-* Christine Hong --> (owes 1 beer for the office)
-* Andrew Mullen
+* Christine Hong
+* Andrew Mullen --> (actually owes 1 beer for the office)
