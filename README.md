@@ -30,10 +30,13 @@
    * **"git add ." (for all files)**
    
 ### Commit the files to the index to be synced with the remote server
-* **git push** 
+* **git commit
    * allows you to add a longer message
-* **git push -m "message"**
-   * git push -m "7.13.2017 / mk / added my name to the readme task"
+* **git commit -m "message"**
+   * git commit -m "7.13.2017 / mk / added my name to the readme task"
+   
+   Push the files
+   *git push
    
 ### Great guide (important commands and flow explained): [GitHub Guide](http://rogerdudler.github.io/git-guide/)
       
