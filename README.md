@@ -6,7 +6,7 @@
 * Added through git web (using web GUI)
   * mike
   
- * Added through git bash (using web GUI)
+ * Added through git bash (using git bash)
    * mike
    
 ## SETUP
@@ -14,8 +14,6 @@
  * http://rogerdudler.github.io/git-guide/
  
 ### Clone the repository
-* **git clone username@host:/path/to/repository**
-   * git clone https://github.com/pisontechnology/gitpractice.git
 * **git clone username@host:/path/to/repository**
    * git clone https://github.com/pisontechnology/gitpractice.git
    
