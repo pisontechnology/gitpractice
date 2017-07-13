@@ -35,8 +35,8 @@
    * git push -m "7.13.2017 / mk / added my name to the readme task"
    
 ### Great guide (important commands and flow explained)
-      **http://rogerdudler.github.io/git-guide/**
+      [Guide](http://rogerdudler.github.io/git-guide/)
       
 ### Markdown guide for readme (.md) documentation is here
-      https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md
+      [sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md)
 
