@@ -15,7 +15,7 @@
  
 ### Clone the repository
 * git clone username@host:/path/to/repository*
-* git clone https://github.com/pisontechnology/gitpractice.git
+   * git clone https://github.com/pisontechnology/gitpractice.git
  
   
   
