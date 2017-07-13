@@ -2,6 +2,7 @@
 
 ## TASK
 ### Please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
+[sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md)
 
 * Add/make change to a file through git web
 * Add/make change to a file through git bash
@@ -24,7 +25,7 @@
 
 ### Add the changed file to the index   
    * **git add "filename" or** 
-     * git add README.md
+      * git add README.md
    * **git add . (for all files)**
    
 ### Commit the files to the index to be synced with the remote server
