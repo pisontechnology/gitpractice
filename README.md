@@ -4,9 +4,9 @@
 ### Please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
 [sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md)
 
-* Add/make change to a file through git web
-* Add/make change to a file through git bash
-* Add/make/check out change to a file in a test branch using git bash
+* Add/make change to sign_in.md through git web
+* Add/make change to sign_in.md through git bash
+* Add/make/check out change to sign_in.md file in a test branch using git bash and then commiting and merging through a "pull request"
    
 ## SETUP
 ### Install GIT  
@@ -34,4 +34,4 @@
 * **git push -m "message"**
    * git push -m "7.13.2017 / mk / added my name to the readme task"
    
-## Commands
+
