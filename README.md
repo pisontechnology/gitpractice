@@ -36,5 +36,5 @@
    
 ### Great guide (important commands and flow explained): [Guide](http://rogerdudler.github.io/git-guide/)
       
-### Markdown guide for readme (.md) documentation is here: [sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/markdown_cheatsheet.md
+### Markdown guide for readme (.md) documentation is here: [sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/markdown_cheatsheet.md)
 
