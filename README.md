@@ -14,7 +14,7 @@
  
 ### Clone the repository
 * **git clone username@host:/path/to/repository**
-   * git clone https://github.com/pisontechnology/gitpractice.git
+      * git clone https://github.com/pisontechnology/gitpractice.git
    
 ### Get Status/ Pull
    * we do not need to do this right now, because we just cloned. Normally, this would be your first step in your routine/ flow. This should always been done prior to working to get the most recent updates from the server. Failure to do this will likely result in your machine getting "ahead" of the server, and an increase in merge conflicts.
@@ -36,4 +36,7 @@
    
 ### Great guide (important commands and flow explained)
       **http://rogerdudler.github.io/git-guide/**
+      
+### Markdown guide for readme (.md) documentation is here
+      https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md
 
