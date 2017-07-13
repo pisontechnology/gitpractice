@@ -14,9 +14,24 @@
  * http://rogerdudler.github.io/git-guide/
  
 ### Clone the repository
-* git clone username@host:/path/to/repository*
+* **git clone username@host:/path/to/repository**
    * git clone https://github.com/pisontechnology/gitpractice.git
- 
+* **git clone username@host:/path/to/repository**
+   * git clone https://github.com/pisontechnology/gitpractice.git
+   
+### Make some changes to it (add your name)
+
+### Add the changed file to the index   
+   * **git add "filename" or** 
+     * git add README.md
+   * **git add . (for all files)**
+   
+   
+### Commit the files to the index to be synced with the remote server
+* **git push** 
+* **git push -m "message"**
+   *git push -m "7.13.2017 / mk / added my name to the readme task"**
+   
   
   
 ## Commands
