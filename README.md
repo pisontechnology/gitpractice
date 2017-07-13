@@ -1,7 +1,7 @@
 # gitpractice
 
 ## TASK
-### please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
+### Please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
 
 * Added through git web (using web GUI)
   * mike
