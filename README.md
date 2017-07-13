@@ -1,7 +1,7 @@
 # gitpractice
 
 ## TASK
-### Please add yourself to the sign-in list and make your first commit using the web. we are going to learn how to do this.
+### Please add yourself to the sign-in list and make your first commit to a file called sign_in.md. We are going to learn how to do this in a variety of ways.
 [sign_in.md](https://github.com/pisontechnology/gitpractice/blob/master/sign_in.md)
 
 * Add/make change to sign_in.md through git web
@@ -15,7 +15,8 @@
 ### Clone the repository
 * **git clone username@host:/path/to/repository**
       * git clone https://github.com/pisontechnology/gitpractice.git
-   
+
+##Working With Files
 ### Get Status/ Pull
    * we do not need to do this right now, because we just cloned. Normally, this would be your first step in your routine/ flow. This should always been done prior to working to get the most recent updates from the server. Failure to do this will likely result in your machine getting "ahead" of the server, and an increase in merge conflicts.
    * **git status**
