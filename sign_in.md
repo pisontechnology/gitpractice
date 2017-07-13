@@ -1,6 +1,9 @@
 # Sign- UP LIST
 
+* DAVID CIPOLETTA
 * Mike Kowalczyk
 * Tanya Wang
-* MIke Kowalczyk 2
+* MIke Kowalczyk
 * Sarah Bucknam
+* Sam Karnes
+
