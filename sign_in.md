@@ -3,6 +3,7 @@
 * DAVID CIPOLETTA
 * Mike Kowalczyk
 * Tanya Wang
-* MIke Kowalczyk 
-* Mike Kowalczyk
+* MIke Kowalczyk
+* Sarah Bucknam
 * Sam Karnes
+
