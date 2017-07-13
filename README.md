@@ -25,9 +25,9 @@
 ### Make some changes to it (add your name) and save.
 
 ### Add the changed file to the index   
-   * **git add "filename" or** 
-      * git add README.md
-   * **git add . (for all files)**
+   * **git add "filename"** 
+      * "git add README.md"
+   * **"git add ." (for all files)**
    
 ### Commit the files to the index to be synced with the remote server
 * **git push** 
