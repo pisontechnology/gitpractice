@@ -34,4 +34,6 @@
 * **git push -m "message"**
    * git push -m "7.13.2017 / mk / added my name to the readme task"
    
+### Great guide (important commands and flow explained)
+      **http://rogerdudler.github.io/git-guide/**
 
