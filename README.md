@@ -16,7 +16,7 @@
 * **git clone username@host:/path/to/repository**
       * git clone https://github.com/pisontechnology/gitpractice.git
 
-##Working With Files
+## Working With Files
 ### Get Status/ Pull
    * we do not need to do this right now, because we just cloned. Normally, this would be your first step in your routine/ flow. This should always been done prior to working to get the most recent updates from the server. Failure to do this will likely result in your machine getting "ahead" of the server, and an increase in merge conflicts.
    * **git status**
