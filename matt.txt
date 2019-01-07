@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 butter
+=======
+The answer to life, existence, and the universe is 7.
+>>>>>>> f25fafc26255341bdcedc2bdf6e3a179f15cebd0
