@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 The answer to life, existence, and the universe is 7.
 
 test 2
+=======
+<<<<<<< HEAD
+butter BUTTER
+=======
+The answer to life, existence, and the universe is 7.
+>>>>>>> f25fafc26255341bdcedc2bdf6e3a179f15cebd0
+>>>>>>> 3c64047ef283e2ed7461ef64f86c3c7aa9d1179c
